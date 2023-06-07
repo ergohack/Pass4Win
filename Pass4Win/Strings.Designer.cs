@@ -19,7 +19,7 @@ namespace Pass4Win {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "4.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Strings {
@@ -131,7 +131,7 @@ namespace Pass4Win {
                 return ResourceManager.GetString("Error_invalid_PassValidTime", resourceCulture);
             }
         }
- 
+        
         /// <summary>
         ///   Looks up a localized string similar to So it seems you have a key defined in .gpg-id that&apos;s not in your GPG keystore as public key. Please correct this. Key.
         /// </summary>
