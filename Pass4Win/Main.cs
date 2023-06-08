@@ -25,10 +25,6 @@ namespace Pass4Win
     using System.Text;
     using System.Windows.Forms;
 
-    using Autofac;
-    using Bugsnag.Clients;
-    using GpgApi;
-    using Octokit;
     using Application = System.Windows.Forms.Application;
     using Repository = LibGit2Sharp.Repository;
     using Timer = System.Threading.Timer;

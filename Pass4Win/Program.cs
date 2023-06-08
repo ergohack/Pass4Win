@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
-using Autofac;
 using System.Threading;
-using log4net.Config;
 using System.IO;
 using System.IO.IsolatedStorage;
 

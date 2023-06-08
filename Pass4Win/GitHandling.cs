@@ -13,7 +13,6 @@ namespace Pass4Win
     using System.Linq;
     using System.Net.Sockets;
 
-    using LibGit2Sharp;
     using System.IO;
     using System.Diagnostics;
     using System.Text.RegularExpressions;

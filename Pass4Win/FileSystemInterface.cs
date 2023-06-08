@@ -21,7 +21,6 @@ namespace Pass4Win
     using System.Text;
     using System.Text.RegularExpressions;
     using System.Windows.Forms;
-    using Autofac;
 
     /// <summary>
     /// Class to interface with the file system ie read directories and file operations

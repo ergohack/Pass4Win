@@ -1,6 +1,4 @@
-﻿using CommandLine;
-
-namespace Pass4Win
+﻿namespace Pass4Win
 {
     class CmdLineOptions
     {

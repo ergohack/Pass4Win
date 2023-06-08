@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Pass4Win")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Windows support of Linux `pass` utility")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Pass4Win")]
@@ -35,7 +35,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyVersion("1.2.1.0")]
 [assembly: AssemblyFileVersion("1.2.1.0")]
 [assembly: NeutralResourcesLanguage("en")]
-
-// Log4net
-[assembly: log4net.Config.XmlConfigurator(Watch = true)]
 

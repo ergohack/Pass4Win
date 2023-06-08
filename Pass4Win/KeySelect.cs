@@ -12,7 +12,6 @@
 
 using System;
 using System.Windows.Forms;
-using GpgApi;
 
 namespace Pass4Win
 {

@@ -3,7 +3,6 @@
     using System;
     using System.Collections.Generic;
     using System.IO;
-    using Newtonsoft.Json;
     using System.IO.IsolatedStorage;
 
     public class ConfigHandling
